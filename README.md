@@ -2,7 +2,7 @@
 Simple Tool to Encrypt and Decrypt any File on your Computer!
 
 I created this Simple Encryption/Decryption Tool to help people to keep their passwords secret from other People, or if they have any Images they do not want 
-anyone to see without an correct Decryption Key/Password the files will become unusable, anyone with the correct password can Decrypt the Files, and get them back to 
+anyone to see without a correct Decryption Key/Password the files will become unusable, anyone with the correct password can Decrypt the Files, and get them back to 
 their normal state! 
 
 ![Alt text](https://i.ibb.co/LCTy5Fg/screenshot-r4z0r-crypt.png "Screenshot")
