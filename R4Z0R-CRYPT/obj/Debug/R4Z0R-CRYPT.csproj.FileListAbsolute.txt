@@ -1,0 +1,11 @@
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\bin\Debug\R4Z0R-CRYPT.exe.config
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\bin\Debug\R4Z0R-CRYPT.exe
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\bin\Debug\R4Z0R-CRYPT.pdb
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.csproj.AssemblyReference.cache
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.csproj.SuggestedBindingRedirects.cache
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R_CRYPT.Form1.resources
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R_CRYPT.Properties.Resources.resources
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.csproj.GenerateResource.cache
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.csproj.CoreCompileInputs.cache
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.exe
+D:\C#\R4Z0R-CRYPT\R4Z0R-CRYPT\obj\Debug\R4Z0R-CRYPT.pdb
