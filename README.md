@@ -16,3 +16,4 @@ Simply either open the Project in Visual Studio, or you use the Release EXE that
 6. Done! 
 
 # This is my first release on Github!
+# Any Questions? Add me on Discord: R4Z0R#1111
