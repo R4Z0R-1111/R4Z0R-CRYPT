@@ -5,7 +5,7 @@ I created this Simple Encryption/Decryption Tool to help people to keep their pa
 anyone to see without an correct Decryption Key/Password the files will become unusable, anyone with the correct password can Decrypt the Files, and get them back to 
 their normal state! 
 
-#How To Use?
+# How To Use?
 
 Simply either open the Project in Visual Studio, or you use the Release EXE that is inside of the bin/release Path.
 1. Open the Program
@@ -15,4 +15,4 @@ Simply either open the Project in Visual Studio, or you use the Release EXE that
 5. Press Start, and choose Save.as File-Path
 6. Done! 
 
-#This is my first release on Github!
+# This is my first release on Github!
